@@ -17,7 +17,7 @@ body {
 }
 
 h2 {
-    color: #008080;
+    color: #42bec3;
     font-weight: 700;
     font-size: 50px;
     font-family: 'Montserrat', sans-serif;
@@ -28,7 +28,7 @@ h2:after {
     content: '';
     width: 50px;
     height: 3px;
-    background: #40E0D0;
+    background: #99dfdc;
     display: block;
     margin: 15px auto;
     transition: all .2s ease-in-out;
@@ -68,7 +68,7 @@ h3, h4, h5 {
     padding: 7px;
     width: 160px;
     border-radius: 3px;
-    background-color: #40E0D0;
+    background-color: #42bec3;
     color: #fff;
     content: attr(data-tooltip);
     text-align: center;
@@ -83,7 +83,7 @@ h3, h4, h5 {
     left: 50%;
     margin-left: -5px;
     width: 0;
-    border-top: 5px solid #40E0D0; 
+    border-top: 5px solid #42bec3; 
     border-right: 5px solid transparent;
     border-left: 5px solid transparent;
     content: " ";
@@ -147,7 +147,7 @@ h3, h4, h5 {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #008080;
+    background-color: #42bec3;
     z-index: 99;
     height: 100%;
 }
@@ -179,6 +179,10 @@ h3, h4, h5 {
     margin-left: 0;
 }
 
+.navbar-brand>img {
+    padding: 5px;
+}
+
 .navbar {
     margin-bottom: 0px;
     border: none;
@@ -191,7 +195,7 @@ h3, h4, h5 {
 
 .navbar-inverse .navbar-toggle:focus .icon-bar,
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-    background-color: #99dfdc;
+    background-color: #fff;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -313,7 +317,8 @@ button.navbar-toggle.collapsed {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     text-align: left;
-    color: #40E0D0;
+    color: #fff;
+    opacity: 1;
 }
 
 .intro .intro-body .intro-text {
@@ -323,7 +328,7 @@ button.navbar-toggle.collapsed {
 }
 
 span.city {
-    background-color: #40E0D0;
+    background-color: #42bec3;
     color: #fff;
     border-radius: 4px;
     width: 15px;
@@ -335,7 +340,7 @@ span.city {
         padding: 0;
     }
     .intro .intro-body .brand-heading {
-        font-size: 130px;
+        font-size: 80px;
     }
     .intro .intro-body .intro-text {
         font-size: 35px;
@@ -422,6 +427,7 @@ span.city {
     margin-top: 22px;
     padding-bottom: 10px;
     text-align: center;
+    color: 	#42bec3
 }
 
 .about-intro-text p {
