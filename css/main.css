@@ -170,12 +170,12 @@ h3, h4, h5 {
 /* start header */
 
 .navbar-fixed-top {
-    background-color: #008080;
+    background-color: #42bec3;
 }
 
 .navbar-brand {
     padding: 0px 15px;
-    height: 56px;
+    height: 66px;
     margin-left: 0;
 }
 
@@ -186,12 +186,12 @@ h3, h4, h5 {
 
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle:hover {
-    background-color: #008080;
+    background-color: #42bec3;
 }
 
 .navbar-inverse .navbar-toggle:focus .icon-bar,
 .navbar-inverse .navbar-toggle:hover .icon-bar {
-    background-color: #40E0D0;
+    background-color: #99dfdc;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -230,13 +230,13 @@ h3, h4, h5 {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     height: 3px;
-    background: #40E0D0;
+    background: #99dfdc;
     -webkit-transition: .35s;
     transition: .35s;
 }
 
 #ResponsiveNav li a:hover {
-    color: #40E0D0;
+    color: #99dfdc;
 }
 
 #ResponsiveNav ul li a:hover:after, #ResponsiveNav ul li a:focus:after, #ResponsiveNav ul li a:active:after {
@@ -244,12 +244,12 @@ h3, h4, h5 {
 }
 
 button.navbar-toggle.collapsed {
-    background-color: #008080;
+    background-color: #99dfdc;
     border: none;
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #40E0D0;
+    background-color: #99dfdc;
     border: none;
 }
 
@@ -296,7 +296,7 @@ button.navbar-toggle.collapsed {
     height: auto;
     text-align: center;
     color: white;
-    background: url(../img/mm_header.jpg) no-repeat bottom center;
+    background: url(../img/header.jpg) no-repeat bottom center;
     background-size: cover;
 }
 
