@@ -1,11 +1,5 @@
-<h1> marinamarques.pt </h1>
+<h1> Hélose Mazingarbe's portfolio </h1>
 
 <h2>About</h2>
-Resume landing page with scroll navigation.<br>
-
-<h2>Resources</h2>
-<ul>
-<li>Bootstrap</li>
-<li>Font Awesome</li>
-<li>jQuery</li>
-</ul>
+Here is the portfolio I started to code right after Le Wagon fullstack program.
+Always trying to improve myself :)
