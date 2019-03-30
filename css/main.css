@@ -435,12 +435,12 @@ span.city {
 }
 
 .about-intro-text span {
-    color: #40E0D0;
+    color: #42bec3;
     font-weight: 700;
 }
 
 .about-intro-text .fa-beer {
-    color: #40E0D0;
+    color: #42bec3;
     font-size: 20px;
 }
 
@@ -454,7 +454,7 @@ span.city {
 }
 
 .button-group .text {
-    background: #008080;
+    background: #42bec3;
     color: #fff;
     font-size: 18px;
     height: 50px;
@@ -468,7 +468,7 @@ span.city {
     height: 50px;
     line-height: 40px;
     box-sizing: border-box;
-    border: 4px solid #008080;
+    border: 4px solid ##42bec3;
     border-left: none;
     -webkit-transition: 600ms -webkit-transform ease-in-out;
     transition: 600ms -webkit-transform ease-in-out;
@@ -478,13 +478,13 @@ span.city {
     transform: rotateY(90deg);
     -webkit-transform-origin: left;
     transform-origin: left;
-    color: #008080;
+    color: ##42bec3;
     background: #fff;
     text-align: center;
 }
 
 .button-group a .fa-arrow-circle-down {
-    color: #008080;
+    color: ##42bec3;
 }
 
 .button-group:hover .icon-cv {
