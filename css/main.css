@@ -104,7 +104,7 @@ h3, h4, h5 {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background: rgba(64, 224, 208, 0.8);
+    background: #42bec3;
     width: 50px;
     height: 50px;
     display: block;
@@ -128,7 +128,7 @@ h3, h4, h5 {
 }
 
 #return-to-top:hover {
-    background: rgba(64, 224, 208, 1);
+    background: #42bec3;
 }
 
 #return-to-top:hover span {
@@ -569,7 +569,7 @@ div.button-social a:hover {
 }
 
 .stats .fa {
-    color: #008080;
+    color: #42bec3;
     font-size: 60px;
 }
 
@@ -596,7 +596,7 @@ div.button-social a:hover {
 .timeline-label h4 {
     margin-top: 0;
     font-size: 30px;
-    color: #40E0D0;
+    color: #42bec3;
     padding: 16px 0px;
     font-weight: 700;
 }
@@ -619,7 +619,7 @@ div.button-social a:hover {
 }
 
 .text-timeline {
-    background: #40E0D0;
+    background: #42bec3;
     color: #fff;
     font-size: 18px;
     height: 40px;
@@ -633,7 +633,7 @@ div.button-social a:hover {
     height: 40px;
     line-height: 30px;
     box-sizing: border-box;
-    border: 4px solid #40E0D0;
+    border: 4px solid #42bec3;
     border-left: none;
     -webkit-transition: 600ms -webkit-transform ease-in-out;
     transition: 600ms -webkit-transform ease-in-out;
@@ -643,7 +643,7 @@ div.button-social a:hover {
     transform: rotateY(90deg);
     -webkit-transform-origin: left;
     transform-origin: left;
-    color: #40E0D0;
+    color: #42bec3;
     background: #fff;
     text-align: center;
 }
@@ -681,13 +681,13 @@ div.button-social a:hover {
     margin-top: 0;
     margin-bottom: 0.333em;
     font-size: 18px;
-    color: #40E0D0;
+    color: #99dfdc;
     font-weight: 700;
 }
 
 .timeline .timeline-experience-info .timeline-role {
     font-size: 16px;
-    color: #008080;
+    color: #42bec3;
     font-weight: 600;
 }
 
@@ -983,7 +983,7 @@ footer p {
 }
 
 footer p span, footer p.success {
-    color: #40E0D0;
+    color: #42bec3;
 }
 
 footer p.error {
@@ -997,7 +997,7 @@ footer p.error {
 }
 
 footer a:hover, footer a:after, footer a:visited footer a:focus {
-    color: #40E0D0;
+    color: #42bec3;
 }
 
 #copyright {
