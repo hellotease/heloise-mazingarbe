@@ -777,7 +777,7 @@ div.button-social a:hover {
 }
 
 .portfolio-details h3 {
-    color: #008080;
+    color: #42bec3;
     font-weight: 700;
     font-size: 25px;
     font-family: 'Montserrat', sans-serif;
@@ -789,7 +789,7 @@ div.button-social a:hover {
 }
 
 .portfolio-details a {
-    color: #40E0D0;
+    color: #42bec3;
     font-weight: 700;
 }
 
@@ -803,10 +803,10 @@ li.portfolio-tag {
     font-size: 9px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    color: #40E0D0;
+    color: #42bec3;
     display: inline-block;
     margin-top: 5px;
-    border: 2px solid #40E0D0;
+    border: 2px solid #42bec3;
     padding: 8px;
 }
 
@@ -827,7 +827,7 @@ span.portfolio-link {
     left: 0;
     -webkit-transform: scale(0);
     transform: scale(0);
-    background: #40e0d0;
+    background: #42bec3;
     opacity: 0.9;
 }
 
